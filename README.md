@@ -10,7 +10,7 @@ I want to share these answers here, and I ask you to please contribute to it wit
 
 # Frequently Asked Questions
 
-## Is there an official FAQ?
+**Is there an official FAQ?**
 
 Yes, you can find it on [Udacity's website](https://www.udacity.com/google-certifications). You will get answer to the following questions:
 
@@ -22,9 +22,9 @@ Yes, you can find it on [Udacity's website](https://www.udacity.com/google-certi
   - Can I retake the exam?
   - ID Verification Troubleshooting (for applicants who have submitted an exam)
 
-## Is the [Associate Android Developer Fast Track](https://www.udacity.com/course/associate-android-developer-fast-track--nd818) coverts everything [that can be in the exam](https://www.udacity.com/google-certifications#exam-details)?
+**Does the [Associate Android Developer Fast Track](https://www.udacity.com/course/associate-android-developer-fast-track--nd818) cover everything [that can be in the exam](https://www.udacity.com/google-certifications#exam-details)?**
 
-**No!** The current version of the Fast Track does not cover some topics of the exam. These topics are testing (especially UI testing) and Gradle. Fortunately, Udacity mentors created additional materials and recommended other sources where you can learn those things. 
+*No, it doesn't!* The current version of the Fast Track does not cover some topics of the exam. These topics are testing (especially UI testing) and Gradle. Fortunately, Udacity mentors created additional materials and recommended other sources where you can learn those things. 
 
   - [Gradle for Android and Java course](https://www.udacity.com/course/gradle-for-android-and-java--ud867) from Udacity
   - [Android Testing](https://classroom.udacity.com/courses/ud867/lessons/3983839023/concepts/43479588550923) from Udacity
@@ -35,74 +35,74 @@ Yes, you can find it on [Udacity's website](https://www.udacity.com/google-certi
   - [Testing UI for a Single App](https://developer.android.com/training/testing/ui-testing/espresso-testing.html)
   - [Espresso Tutorial](http://www.vogella.com/tutorials/AndroidTestingEspresso/article.html)
 
-## I finished the [Associate Android Developer Fast Track](https://www.udacity.com/course/associate-android-developer-fast-track--nd818). Is the exam difficult?
+**I finished the [Associate Android Developer Fast Track](https://www.udacity.com/course/associate-android-developer-fast-track--nd818). Is the exam difficult?**
 
 If you finished the Fast Track and the additional materials, you will have no trouble. Take some time to review the [exam topics](https://www.udacity.com/google-certifications#exam-details) to see if you need a refresh in anything.
 
-## I started the exam but I got a blank screen. What to do?
+**I started the exam but I got a blank screen. What to do?**
 
 Contact the support. It happened with a lot of student. It gets fixed in a few days. It does not count as a failed exam.
 
-## Everybody gets the same exam project?
+**Everybody gets the same exam project?**
 
 No. There are a pool of projects and you get one randomly.
 
-## How long does it take to finish the exam project?
+**How long does it take to finish the exam project?**
 
 It depends on your knowledge and the project you get. Some projects took some of us to finish in 4 hours. Some projects took 14-18 hours.
 
-## I do not have 48 free hours. Can I finish the exam on the afternoons or in one day?
+**I do not have 48 free hours. Can I finish the exam on the afternoons or in one day?**
 
 It depends on your knowledge and the project you get. 48 hours are definitely a lots of time to finish the exam, but you can always get something that takes more time that you would expect.
 
-## Do you have any recommendations for the exam?
+**Do you have any recommendations for the exam?**
 
   - Don't panic! :)
   - Try to work more on the first day.
   - Check the questions twice. Sometimes the solution is easier than you think.
   - Do not forget, you must not share the exam project with anyone. If you want to use version control and backup (very clever!), I would recommend [Bitbucket](https://bitbucket.org) with its private repositories and issue tracker. Do not share your code on a public GitHub repository!
 
-## I submitted the exam project. How long does it take to get a review?
+**I submitted the exam project. How long does it take to get a review?**
 
 It usually takes 1-10 days.
 
-## My project was accepted! What is next?
+**My project was accepted! What is next?**
 
 You need to schedule an exit interview.
 
-## What happens on the exit interview?
+**What happens on the exit interview?**
 
 The interviewer test you to see if you were the one who submitted your exam. You will get some (3-4) questions from the exam, and some (4-5) questions about general android development. The interview is really short, you will should not think of in depth questions. They are quite similar to the questions in the [Associate Android Developer Fast Track](https://www.udacity.com/course/associate-android-developer-fast-track--nd818) video questions. The goal is to see if you know about Android development and to test if you submitted the project.
 
-## How to prepare to the exit interview?
+**How to prepare to the exit interview?**
 
 Read through your exam project on your computer to be able to talk about it.
 
-## How long is the exit interview?
+**How long is the exit interview?**
 
 Mine was like 5 minutes. You should expect maximum 15 minutes.
 
-## My interviewer is late. What to do?
+**My interviewer is late. What to do?**
 
 This can happen sometimes, you should wait. Be sure to check the time zones. That made me miss my first interview. I told this on my second interview where the interviewer made a note about it. I did not have to do anything besides that. Be sure you check the time zones. :)
 
-## Do you know anybody who failed the exit interview?
+**Do you know anybody who failed the exit interview?**
 
 No. There were not a single person who failed on our Slack channel (255 student).
 
-## I did my exit interview! When will I get the answer?
+**I did my exit interview! When will I get the answer?**
 
 You should receive it in 1-14 days. Mentors told us that the evaluation committee decides every Thursday. You should expect to get the answer next Friday or Saturday. If there are a lot of submitted exams, it can happen that yours will be reviewed only next week.
 
-## Is [Associate Android Developer Fast Track](https://www.udacity.com/course/associate-android-developer-fast-track--nd818) worth it?
+**Is [Associate Android Developer Fast Track](https://www.udacity.com/course/associate-android-developer-fast-track--nd818) worth it?**
 
 I think it is. The projects (especially the last two) are very similar to the actual exam.
 
-## I am taking the exam via the [EU Android Programmer Path scholarship from Google](https://www.udacity.com/google-scholarships). Do I have to finish the Fast Track before I can take the exam?
+**I am taking the exam via the [EU Android Programmer Path scholarship from Google](https://www.udacity.com/google-scholarships). Do I have to finish the Fast Track before I can take the exam?**
 
 No.
 
-## I am taking the exam via the [EU Android Programmer Path scholarship from Google](https://www.udacity.com/google-scholarships). When can I take the exam?
+**I am taking the exam via the [EU Android Programmer Path scholarship from Google](https://www.udacity.com/google-scholarships). When can I take the exam?**
 
 Anytime until the end of the year (2017).
 
