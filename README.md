@@ -37,7 +37,7 @@ Yes, you can find it on [Udacity's website](https://www.udacity.com/google-certi
 
 ### I finished the [Associate Android Developer Fast Track](https://www.udacity.com/course/associate-android-developer-fast-track--nd818). Is the exam difficult?
 
-If you finished the Fast Track and the additional materials, you will have no trouble. Take some time to review the [exam topics](https://www.udacity.com/google-certifications#exam-details) to see if you need a refresh in anything.
+If you finish the Fast Track and the additional materials, you will have no trouble. Take some time to review the [exam topics](https://www.udacity.com/google-certifications#exam-details) to see if you need a refresh in anything.
 
 ### I started the exam but I got a blank screen. What to do?
 
@@ -96,7 +96,9 @@ You should receive it in 1-14 days. Mentors told us that the evaluation committe
 
 ### Is [Associate Android Developer Fast Track](https://www.udacity.com/course/associate-android-developer-fast-track--nd818) worth it?
 
-I think it is. The projects (especially the last two) are very similar to the actual exam.
+I think it is. The content is good (especially the first two part from the three), you get mentoring, access to a moderated forum and a very active Slack channel. The projects (especially the last two) are very similar to the exam. I started it with about zero practical Android knowledge and learnt everything from that.
+
+If you are a seasoned android developer, then the price may not worth it. In that case just [go through on the certification topics](https://www.udacity.com/google-certifications#exam-details).
 
 ### I am taking the exam via the [EU Android Programmer Path scholarship from Google](https://www.udacity.com/google-scholarships). Do I have to finish the Fast Track before I can take the exam?
 
