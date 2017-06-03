@@ -29,7 +29,7 @@ Yes, you can find it on [Udacity's website](https://www.udacity.com/google-certi
   - [Gradle for Android and Java course](https://www.udacity.com/course/gradle-for-android-and-java--ud867) from Udacity
   - [Android Testing](https://classroom.udacity.com/courses/ud867/lessons/3983839023/concepts/43479588550923) from Udacity
   - [Setting up Android tests](https://classroom.udacity.com/courses/ud867/lessons/3983839023/concepts/43260001340923) from Udacity
-  - [Android Testing Tutorial by Google](https://codelabs.developers.google.com/codelabs/android-testing/index.html?index=..%2F..%2Findex#0) (It covers everything that you need to do the testing part.)
+  - **Recommended: [Android Testing Tutorial by Google](https://codelabs.developers.google.com/codelabs/android-testing/index.html?index=..%2F..%2Findex#0) (It covers everything that is needed for the testing part.)**
   - [Espresso testing live demo](https://youtu.be/NEsuF6Kc2WM?t=2h35m) from Udacity
   - [From the Android Testing Support Library](https://google.github.io/android-testing-support-library/docs/espresso/)
   - [Testing UI for a Single App](https://developer.android.com/training/testing/ui-testing/espresso-testing.html)
