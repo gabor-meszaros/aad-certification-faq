@@ -62,6 +62,14 @@ It depends on your knowledge and the project you get. 48 hours are definitely a 
   - Check the questions twice. Sometimes the solution is easier than you think.
   - Do not forget, you must not share the exam project with anyone. If you want to use version control and backup (very clever!), I would recommend [Bitbucket](https://bitbucket.org) with its private repositories and issue tracker. Do not share your code on a public GitHub repository!
 
+### Do I have to add my ID pictures to the exam project zip file?
+
+No. Submit only the exam project, the ID verification will be later (immediately after) the exam submission.
+
+### I got a blank screen after verifying my identity. What should I do?
+
+It happened with some of us. If you get an email about the ID verification, you do not have to do anything else.
+
 ### I submitted the exam project. How long does it take to get a review?
 
 It usually takes 1-10 days.
