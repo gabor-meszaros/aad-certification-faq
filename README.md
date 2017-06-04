@@ -4,7 +4,7 @@ Frequently asked questions about Google's Associate Android Developer (AAD) Cert
 
 I have received my certification in May 2017 after finishing the [Associate Android Developer Fast Track by Google](https://www.udacity.com/course/associate-android-developer-fast-track--nd818) on Udacity via the [EU Android Programmer Path scholarship from Google](https://www.udacity.com/google-scholarships) (Thank you for it!).
 
-Some of the benefits of taking the [Associate Android Developer Fast Track](https://www.udacity.com/course/associate-android-developer-fast-track--nd818) is that you get access to a Slack team where you get direct answers for your questions about the exam.
+Some of the benefits of taking the EU Android Programmer Path scholarship is that you get access to a Slack team where you get direct answers for your questions about the exam.
 
 I want to share these answers here, and I ask you to please contribute to it with your own questions (with [Issues](https://github.com/gabor-meszaros/aad-certification-faq/issues)) and/or answers (with [Pull Requests](https://github.com/gabor-meszaros/aad-certification-faq/pulls)).
 
@@ -108,7 +108,7 @@ You should receive it in 1-14 days. Mentors told us that the evaluation committe
 
 ### Is [Associate Android Developer Fast Track](https://www.udacity.com/course/associate-android-developer-fast-track--nd818) worth it?
 
-I think it is. The content is good (especially the first two part from the three), you get mentoring, access to a moderated forum and a very active Slack channel. The projects (especially the last two) are very similar to the exam. I started it with about zero practical Android knowledge and learnt everything from that.
+I think it is. The content is good (especially the first two part from the three), you get mentoring, and access to a moderated forum. The projects (especially the last two) are very similar to the exam. I started it with about zero practical Android knowledge and learnt everything from that.
 
 If you are a seasoned android developer, then the price may not worth it. In that case just [go through on the certification topics](https://www.udacity.com/google-certifications#exam-details).
 
