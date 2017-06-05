@@ -120,3 +120,10 @@ No.
 
 Anytime until the end of the year (2017).
 
+### Do I have to get my AAD certification until 15th of June in order to win one of the 10 Android Nanodegree scholarship?
+
+The official answer is:
+
+> Since we got a few questions regarding this topic, here’s a quick update:
+> if a student takes (and passes) the written part of the exam by 15 June, they should be able to complete the exit interview over the following days in time for their name to be included in the June 20 drawing. Be aware that the drawing on June 20 is for students that are fully certified (e.g. exit exam completed and exit exam finished). That means that students should take the exam by the 15th to ensure they have enough time for the exit interview and get all the confirmation from our side.
+> I hope this helps! Good look everyone!
