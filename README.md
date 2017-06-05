@@ -120,7 +120,7 @@ No.
 
 Anytime until the end of the year (2017).
 
-### Do I have to get my AAD certification until 15th of June in order to win one of the 10 Android Nanodegree scholarship?
+### Do I have to get my AAD certification by 15th of June in order to win one of the 10 Android Nanodegree scholarships?
 
 The official answer is:
 
